@@ -3,7 +3,6 @@ Big Fish Games Live Chat: How to Contact Customer Support
 
 Big Fish Games is a popular gaming platform offering PC, Mac, mobile, and free-to-play games. Like any online gaming service, players may sometimes experience problems with account access, purchases, downloads, game installation, subscriptions, or technical issues.
 
-
   
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
